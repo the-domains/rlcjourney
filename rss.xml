@@ -4,21 +4,21 @@
         <description><![CDATA[Journey]]></description>
         <link>https://thegrid.ai/rlcjourney/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 17:51:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2016 17:52:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rlcjourney/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5cb2a010-d2c7-46ed-902c-3e11b22e29d7.png">]]></description>
+            <link>https://thegrid.ai/rlcjourney/journey/index.html</link>
+            <guid isPermaLink="false">c113ff53-a8f0-47f5-a1ad-daad45e6c2aa</guid>
+            <pubDate>Thu, 14 Apr 2016 17:51:36 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Join us as we walk through Jesus' sermon on the mount and discover what it means to live in an upside down way.]]></title>
-            <description><![CDATA[<article><h1>Join us as we walk through Jesus' sermon on the mount and discover what it means to live in an upside down way.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/754d6fe8-ec93-47c7-b373-29edfe997c54.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Join us as we walk through Jesus' sermon on the mount and discover what it means to live in an upside down way.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/585f3ae383c1e45119657a69a5b29682c93d101e.jpg"></article>]]></description>
             <link>https://thegrid.ai/rlcjourney/8a9d48c5-1038-4724-ab93-a01c0eb7c71f/index.html</link>
             <guid isPermaLink="false">8a9d48c5-1038-4724-ab93-a01c0eb7c71f</guid>
             <pubDate>Thu, 14 Apr 2016 17:50:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4e853a5ef57e864a54b5738b2ffbbd9387816fd0.png" alt="" title="">]]></description>
-            <link>https://thegrid.ai/rlcjourney/journey/index.html</link>
-            <guid isPermaLink="false">c113ff53-a8f0-47f5-a1ad-daad45e6c2aa</guid>
-            <pubDate>Wed, 13 Apr 2016 20:12:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
